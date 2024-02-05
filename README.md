@@ -1,2 +1,1 @@
-# LearnJava
-## [Main](Main.java)
+# [LearnJava](Main.java)
