@@ -5,6 +5,7 @@ public class Main{
         int x = 123;
         double y = 3.14;
         boolean z = false;
-        System.out.println(z);
+        char symbol = "@";
+        System.out.println(symbol);
     }
 }
