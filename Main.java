@@ -4,6 +4,6 @@ public class Main{
 
         int x = 123;
         float y = 3.14f;
-        System.out.println("My number is: "+x);
+        System.out.println("My number is: "+y);
     }
 }
