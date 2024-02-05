@@ -4,6 +4,6 @@ public class Main{
 
         int x = 123; //initialization
 
-        System.out.println(x);
+        System.out.println("x");
     }
 }
