@@ -6,6 +6,7 @@ public class Main{
         double y = 3.14;
         boolean z = false;
         char symbol = '@';
+        String name = "gurraoptimus";
         System.out.println(symbol);
     }
 }
