@@ -2,8 +2,8 @@
 public class Main{
     public static void main(String[] args){
 
-        int x = 4455; //initialization
+        int x = 123; //initialization
 
-        System.out.println(x);
+        System.out.println("My number is: "+x);
     }
 }
