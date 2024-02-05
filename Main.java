@@ -7,6 +7,6 @@ public class Main{
         boolean z = false;
         char symbol = '@';
         String name = "gurraoptimus";
-        System.out.println(symbol);
+        System.out.println(name);
     }
 }
