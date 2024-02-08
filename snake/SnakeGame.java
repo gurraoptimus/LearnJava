@@ -11,6 +11,7 @@ public class SnakeGame extends JPannel{
     SnakeGame(int boardWidth, int boardHeight){
         this.boardWidth = boardWidth;
         this.boardHeight = boardHeight;
-        setPreferredSize(new Dimenion())
+        setPreferredSize(new Dimenion(this.boardWidth, this.boardHeight));
+        setBackground(Color.black);
     }
 }
