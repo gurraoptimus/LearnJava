@@ -1,7 +1,9 @@
 import java.awt.*;
 import java.awt.event.*;
-im
+import java.util.ArrayList;
+import java.util.Random;
+import javax.swing.*;
 
-public class SnakeGame{
+public class SnakeGame extends JPannel{
 
 }
