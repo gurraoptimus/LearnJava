@@ -1,2 +1,2 @@
-# [Learn Java](Main.java)
+# [Learn Java](BrorCode.java)
 s
