@@ -10,6 +10,6 @@ public class app {
         frame.setSize(boardWidth, boardHeight);
         frame.setLocationRelativeTo(null);
         frame.setResizale(false);
-        frame.setDefaultCloseOper
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 }
