@@ -37,7 +37,7 @@ public class SnakeGame extends JPanel implements ActionListener, KeyListener {
     SnakeGame(int boardWidth, int boardHeight){
         this.boardWidth = boardWidth;
         this.boardHeight = boardHeight;
-        setPreferredSize(new Dimenion(this.boardWidth, this.boardHeight));
+        setPreferredSize(new Dimension(this.boardWidth, this.boardHeight));
         setBackground(Color.black);
         addKeyListener(this);
         setFocusable(true);
