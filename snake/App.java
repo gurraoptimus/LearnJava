@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        int boardWidth = 1000;
+        int boardWidth = 100;
         int boardHeight = boardWidth;
 
         JFrame frame = new JFrame("Snake");
