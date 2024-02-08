@@ -7,6 +7,6 @@ public class app {
 
         JFrame = new JFrame("Snake");
         frame.setVisible(true);
-        frame.setSize(boardWidth)
+        frame.setSize(boardWidth boardHeight);
     }
 }
