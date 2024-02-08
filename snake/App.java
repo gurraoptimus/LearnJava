@@ -11,6 +11,7 @@ public class app {
         frame.setLocationRelativeTo(null);
         frame.setResizale(false);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        
+
+        SnakeGame snakeGame = new
     }
 }
