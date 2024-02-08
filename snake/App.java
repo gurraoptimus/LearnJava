@@ -7,7 +7,7 @@ public class app {
 
         JFrame = new JFrame("Snake");
         frame.setVisible(true);
-        frame.setSize(boardWidth, boardHeight);
+            frame.setSize(boardWidth, boardHeight);
         frame.setLocationRelativeTo(null);
         frame.setResizale(false);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
