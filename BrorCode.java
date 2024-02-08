@@ -1,4 +1,4 @@
-public class Main{
+public class BrorCode{
     public static void main(String[] args){
 
         int x = 123;
