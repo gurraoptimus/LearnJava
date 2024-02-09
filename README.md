@@ -1,2 +1,2 @@
 # [Learn Java](BrorCode.java)
-# [sorce code]((@)ImKennyYip/snake-java/)
+# [sorce code](snake-java/)
