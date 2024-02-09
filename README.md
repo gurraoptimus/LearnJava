@@ -1,2 +1,2 @@
 # [Learn Java](BrorCode.java)
-s
+# [sorce code](@ImKennyYip/snake-java/tree/master)
