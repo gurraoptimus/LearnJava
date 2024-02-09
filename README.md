@@ -1,2 +1,2 @@
 # [Learn Java](BrorCode.java)
-# [sorce code](@ImKennyYip/)
+# [sorce code](https://github.com/ImKennyYip/snake-java.git)
